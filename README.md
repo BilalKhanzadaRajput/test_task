@@ -30,14 +30,12 @@ lib/
 
 ## 4) App Video
 
-https://drive.google.com/file/d/1Cv1LSTQ4qcYuD5oemKFDrksb_jwOBRIF/view?usp=sharing
-
+https://drive.google.com/drive/folders/1FmKwoEioUGafzt9K-rOvHJHT1M-Orjrn?usp=share_link
 
 
 ## 5) App APK
 
-https://raw.githubusercontent.com/temoorx/test_project/main/releases/app-release.apk
-
+https://drive.google.com/drive/folders/1Jy11cpXbh3Z-PECFJlpiafwvbC71CRyv?usp=share_link
 
 
 # test_task
